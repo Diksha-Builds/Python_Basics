@@ -1,1 +1,6 @@
 Python programming !
+Python is a high-level, general-purpose, and interpreted programming language 
+created by Guido van Rossum and first released on February 20, 1991.  
+Its name is derived from the British comedy series Monty Python’s Flying Circus, not the reptile. 
+Python emphasizes code readability through simple, English-like syntax and significant indentation, 
+making it highly accessible for beginners and efficient for experienced developers.

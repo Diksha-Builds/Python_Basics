@@ -8,7 +8,7 @@ def countVowels(filename):
     fobj.close()
 
     for ch in data:
-        if ch.lower() in "aeiou":
+        if ch in "aeiouAEIOU":
             count += 1
 
     return count
